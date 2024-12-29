@@ -1,7 +1,3 @@
-Here’s the README file for your new task, formatted in the same style as your previous homework:
-
----
-
 ### **Web Component Display with Node.js Server**
 
 #### **Description**
